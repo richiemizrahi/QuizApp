@@ -1,7 +1,9 @@
 html,body{
 	height: 100%;
+	background: url('http://3.bp.blogspot.com/-VBIcR488eeg/TpjDPXHebyI/AAAAAAAACJY/N5aIYChRmmk/s640/MtRushmore20112109-2.jpg');
 }
 div{
+	background-color: #f4f4f4;
 	border: solid 3px black;
 	border-radius: 5px;
 	width: 400px;
